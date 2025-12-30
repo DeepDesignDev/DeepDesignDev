@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LegionNexus
+- 👋 Hi, I’m @DeepDesignDev
 - 👀 I’m interested in Neovim, JS/TS, Rust also FPs
 - 🌱 I’m currently learning "all sorts of CS and Programming stuff, reading SICP and CSAPP"
 - 💞️ I’m looking to collaborate on "anything worthy of my time"
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I used to be an IT, currently (trans)itioning to be a developer
 
 <!---
-LegionNexus/LegionNexus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DeepDesignDev/DeepDesignDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
